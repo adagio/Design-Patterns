@@ -670,7 +670,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">24</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">23</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLClass" guid="naC9U0wyFkOO2MXirxGl2wAA">
 <XPD:ATTR name="Name" type="string">Duck</XPD:ATTR>
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
@@ -893,11 +893,7 @@
 <XPD:REF name="Views[2]">SDYDU00UK0uyxd3sYwzMVwAA</XPD:REF>
 <XPD:REF name="Views[3]">FXl8usQcZU+Qa7V1cq5TdQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[16]" type="UMLClass" guid="Bq+DS9Wuf0+my0C/KkYJoQAA">
-<XPD:ATTR name="Name" type="string">Kum, Deukkyu</XPD:ATTR>
-<XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedElements[17]" type="UMLClass" guid="SwCwg2UtEkyj/XNLNuZzigAA">
+<XPD:OBJ name="OwnedElements[16]" type="UMLClass" guid="SwCwg2UtEkyj/XNLNuZzigAA">
 <XPD:ATTR name="Name" type="string">QuackBehavior</XPD:ATTR>
 <XPD:ATTR name="IsAbstract" type="boolean">True</XPD:ATTR>
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
@@ -916,7 +912,7 @@
 <XPD:REF name="Owner">SwCwg2UtEkyj/XNLNuZzigAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[18]" type="UMLClass" guid="eEfXntyDGkaxW1UFGExbpQAA">
+<XPD:OBJ name="OwnedElements[17]" type="UMLClass" guid="eEfXntyDGkaxW1UFGExbpQAA">
 <XPD:ATTR name="Name" type="string">Quack</XPD:ATTR>
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -933,7 +929,7 @@
 <XPD:REF name="Owner">eEfXntyDGkaxW1UFGExbpQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[19]" type="UMLClass" guid="2rMHuRAO6Ea1cgH3KpUc1QAA">
+<XPD:OBJ name="OwnedElements[18]" type="UMLClass" guid="2rMHuRAO6Ea1cgH3KpUc1QAA">
 <XPD:ATTR name="Name" type="string">Squack</XPD:ATTR>
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -950,7 +946,7 @@
 <XPD:REF name="Owner">2rMHuRAO6Ea1cgH3KpUc1QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[20]" type="UMLClass" guid="FFTl3KwC0k2C2znHL/TWVQAA">
+<XPD:OBJ name="OwnedElements[19]" type="UMLClass" guid="FFTl3KwC0k2C2znHL/TWVQAA">
 <XPD:ATTR name="Name" type="string">MuteQuack</XPD:ATTR>
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -967,7 +963,7 @@
 <XPD:REF name="Owner">FFTl3KwC0k2C2znHL/TWVQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[21]" type="UMLRealization" guid="FiZ9hqCSi022hXsNirWJwAAA">
+<XPD:OBJ name="OwnedElements[20]" type="UMLRealization" guid="FiZ9hqCSi022hXsNirWJwAAA">
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
 <XPD:REF name="Client">eEfXntyDGkaxW1UFGExbpQAA</XPD:REF>
 <XPD:REF name="Supplier">SwCwg2UtEkyj/XNLNuZzigAA</XPD:REF>
@@ -977,7 +973,7 @@
 <XPD:REF name="Views[2]">ORIVXa2PUEyA5Boq+aTBeAAA</XPD:REF>
 <XPD:REF name="Views[3]">KpBcNScNaEilxF6+o+c9rQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[22]" type="UMLRealization" guid="80SS0bLzukSKwYM1rU8elQAA">
+<XPD:OBJ name="OwnedElements[21]" type="UMLRealization" guid="80SS0bLzukSKwYM1rU8elQAA">
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
 <XPD:REF name="Client">2rMHuRAO6Ea1cgH3KpUc1QAA</XPD:REF>
 <XPD:REF name="Supplier">SwCwg2UtEkyj/XNLNuZzigAA</XPD:REF>
@@ -987,7 +983,7 @@
 <XPD:REF name="Views[2]">laV2ZIt1JUWljkfSBidKAQAA</XPD:REF>
 <XPD:REF name="Views[3]">qZuxGd4TY0ia3ZJBRotF9AAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[23]" type="UMLRealization" guid="YJXetzZ5LUynKRbor7paMAAA">
+<XPD:OBJ name="OwnedElements[22]" type="UMLRealization" guid="YJXetzZ5LUynKRbor7paMAAA">
 <XPD:REF name="Namespace">wGXkiPoGJUyTQDhh1T9m7QAA</XPD:REF>
 <XPD:REF name="Client">FFTl3KwC0k2C2znHL/TWVQAA</XPD:REF>
 <XPD:REF name="Supplier">SwCwg2UtEkyj/XNLNuZzigAA</XPD:REF>
